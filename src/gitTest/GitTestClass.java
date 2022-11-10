@@ -8,9 +8,11 @@ public class GitTestClass {
 		int y = 5;
 		System.out.println(x + y);
 		System.out.println("This is from local Repo");
-		
-		public void addition(){
-			System.out.println("This is from another branch ");
+
+	}
+
+	public void addition() {
+		System.out.println("This is from another branch ");
 
 	}
 }
